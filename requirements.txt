@@ -7,12 +7,3 @@ rake-nltk==1.0.6
 nltk==3.9.1
 gunicorn
 firebase-admin
-'''
-echo "# Text-To-Visuals" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AathiganapathiK/Text-To-Visuals.git
-git push -u origin main
-'''
